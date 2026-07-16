@@ -1,0 +1,2 @@
+# Student-database-management-system-using-binary-search-tree-
+Student Database Management System using Binary Search Tree (BST) efficiently manages student records with Student ID, Name, and Marks. It supports insertion, deletion, search, update, and display operations. BST keeps records sorted by Student ID, enabling fast data retrieval, efficient management, and easy maintenance of student information.
